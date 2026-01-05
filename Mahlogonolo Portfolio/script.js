@@ -1,4 +1,4 @@
-// Close menu when a navbar link is clickedd
+// Close menu when a navbar link is clicked
 document.querySelectorAll('.navbar a').forEach(link => {
     link.addEventListener('click', () => {
         menuIcon.classList.remove('bx-x');
@@ -6,3 +6,4 @@ document.querySelectorAll('.navbar a').forEach(link => {
     });
 
 });
+
