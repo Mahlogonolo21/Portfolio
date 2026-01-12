@@ -21,7 +21,7 @@ html {
     --main-color: #6eabfa;
 }
 
-body {
+bodyyy {
     background: var(--bg-color);
     color: var(--text-color);
 }
@@ -408,4 +408,5 @@ section {
     .contact form {
         flex-direction: column;
     }
+
 }
