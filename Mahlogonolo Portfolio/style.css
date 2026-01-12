@@ -21,7 +21,7 @@ html {
     --main-color: #6eabfa;
 }
 
-bodyy {
+body {
     background: var(--bg-color);
     color: var(--text-color);
 }
@@ -410,6 +410,7 @@ section {
     }
 
 }
+
 
 
 
