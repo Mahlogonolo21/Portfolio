@@ -1,4 +1,3 @@
-
 document.querySelectorAll('.navbar a').forEach(link => {
     link.addEventListener('click', () => {
         menuIcon.classList.remove('bx-x');
@@ -6,6 +5,7 @@ document.querySelectorAll('.navbar a').forEach(link => {
     });
 
 });
+
 
 
 
