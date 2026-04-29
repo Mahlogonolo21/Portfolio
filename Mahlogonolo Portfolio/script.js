@@ -3,7 +3,7 @@ document.querySelectorAll('.navbar a').forEach(link => {
         menuIcon.classList.remove('bx-x'); 
         navbar.classList.remove('active'); 
     }); 
-
+ 
 });
   
 
